@@ -1,5 +1,1 @@
-## Example usin DataLoader (JS)
-
-```
-npm start
-```
+## Examples of using DataLoader (JS)
