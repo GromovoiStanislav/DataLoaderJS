@@ -1,0 +1,17 @@
+{
+  "name": "dataloader-redis",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dataloader": "^2.2.2",
+    "dotenv": "^16.4.5",
+    "redis": "^4.6.13"
+  }
+}
